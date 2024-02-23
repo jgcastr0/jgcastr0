@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Juan Castro!
+- 👀 I’m interested in Software Development, Robotics and AI
+- 🌱 I’m currently learning Python and machine learning libraries, C and javascript
+- 📫 How to reach me: www.linkedin.com/in/juan-castro77
