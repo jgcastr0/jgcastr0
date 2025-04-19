@@ -9,9 +9,9 @@ AI and Machine Learning
 🌱 What I'm Currently Learning:  
 Python and machine learning libraries  
 C  
-JavaScript
+Web De
 
 📫 How to Reach Me  
 You can find me on LinkedIn, and I'm always open to new professional opportunities and exciting projects.  
-www.linkedin.com/in/juan-castro77  
+www.linkedin.com/in/juan-g-castro
 
