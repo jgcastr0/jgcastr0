@@ -9,7 +9,7 @@ AI and Machine Learning
 🌱 What I'm Currently Learning:  
 Python and machine learning libraries  
 C  
-Web De
+Web Development
 
 📫 How to Reach Me  
 You can find me on LinkedIn, and I'm always open to new professional opportunities and exciting projects.  
