@@ -16,5 +16,5 @@ Web Development
 You can find me on LinkedIn, and I'm always open to new professional opportunities and exciting projects.  
 www.linkedin.com/in/juan-g-castro
 
-My personal site: juancastro.com.br
+My personal site: www.juancastro.com.br
 
