@@ -2,7 +2,8 @@
 Welcome to my GitHub profile! I'm a 23-year-old student in Control and Automation Engineering at the Universidade Estadual de Campinas (UNICAMP). My interests lie in Software Development, Robotics, and AI, and I'm always exploring new technologies and languages to expand my skill set.  
 
 👀 What I'm Interested In:  
-Software Development  
+Software Development
+Web Development
 Robotics  
 AI and Machine Learning  
 
